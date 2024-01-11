@@ -2,7 +2,7 @@
 
 pragma solidity >=0.8.0 <=0.8.21;
 
-import '../../HW2/contracts/SampleCoin.sol';
+import './SampleCoin.sol';
 
 contract ProductIdentification {
     event NewRegistrationTax(uint tax);
